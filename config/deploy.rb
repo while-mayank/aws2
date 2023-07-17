@@ -1,5 +1,5 @@
 # Change these
-server '3.7.28.129', port: 22, roles: [:web, :app, :db], primary: true
+server '15.206.205.16', port: 22, roles: [:web, :app, :db], primary: true
 
 set :repo_url,        'git@github.com:while-mayank/aws2.git'
 set :application,     'aws2'
